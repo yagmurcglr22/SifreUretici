@@ -1,2 +1,2 @@
 # SifreUretici
-- Basit bir sifre üretme algoritması (her üretti şifre güvenli olmayabilir mesuliyet kabul etmiyorum)
+- Basit bir şifre üretme algoritması (her ürettiği şifre güvenli olmayabilir mesuliyet kabul etmiyorum)
